@@ -1,9 +1,6 @@
 #Hola, mi nombre es Maria Victoria Torrez Amador
 ### Hi there 👋
 
-<!--
-**Torrez-victoria/Torrez-victoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 Actualmente estoy estudiando en la Universidad Privada Domingo Savio, en la materia de Programacion Basica...
